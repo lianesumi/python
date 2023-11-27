@@ -1,0 +1,29 @@
+# https://learnpython.org/en/Welcome
+
+# indentation - 4 spaces
+
+print("<text>")
+print(x)
+print(x,y)
+
+
+VARIABLES AND TYPES----------------------------------------------------
+
+NUMBERS -----
+a) integers
+x=7
+
+b) decimals 
+x=7.0
+or
+x=float(7)
+
+STRINGS -----
+x = 'hello'
+or
+x="hello"
+
+operators can be used in numbers and strings
+but not numbers with strings
+
+
