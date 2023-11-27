@@ -1,6 +1,6 @@
-# https://learnpython.org/en/Welcome
+https://learnpython.org/en/Welcome
 
-# indentation - 4 spaces
+indentation - 4 spaces
 
 print("<text>")
 print(x)
@@ -27,3 +27,24 @@ operators can be used in numbers and strings
 but not numbers with strings
 
 
+
+LISTS----------------------------------------------------
+
+mylist=[]
+
+adicionar itens:
+mylist.append(<item q qro adicionar>)
+
+cada item da lista tem uma posição, começando do zero 
+
+posso printar por posição:
+print(mylist[0]) #vai printar o item na posição zero 
+
+posso printar por iteração:
+for x in mylist:
+    print(x)
+
+vai printar todos os elementos
+
+
+BASIC OPERATORS----------------------------------------------------
